@@ -31,3 +31,11 @@
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+### My statistic:
+
+<p>
+  <img height="133px" src="https://github-readme-stats.vercel.app/api?username=IhorShvydkyi&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&theme=default" alt="stats" />
+  
+  <img height="133px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhorShvydkyi&langs_count=6&layout=compact&hide_title=true&theme=default_repocard" alt="top languages" />
+</p>
